@@ -1,0 +1,32 @@
+#sidebar {
+  background:blue;
+  float:left;
+  width:50;
+  height:300;
+  color:white;
+}
+
+#banner{
+  width:100%;
+  Background:green;
+  font-size:50;
+  color:white;
+  padding:25;
+  text-align:center;
+}
+
+#nav{
+  width:100%;
+  background:red;
+  font-size:15;
+  color:white;
+  text-align:center;
+  
+}
+
+#content{
+  background:yellow;
+  color:black;
+  height:300;
+  text-align:center;
+}
